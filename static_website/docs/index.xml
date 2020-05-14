@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://&lt;AlvaroRivera27&gt;.github.io/%3Cstatic_website%3E/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 May 2020 23:15:45 -0500</lastBuildDate>
+    
+	<atom:link href="https://<AlvaroRivera27>.github.io/%3Cstatic_website%3E/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post con Hugo</title>
+      <link>https://&lt;AlvaroRivera27&gt;.github.io/%3Cstatic_website%3E/posts/my-first-post/</link>
+      <pubDate>Wed, 13 May 2020 23:15:45 -0500</pubDate>
+      
+      <guid>https://&lt;AlvaroRivera27&gt;.github.io/%3Cstatic_website%3E/posts/my-first-post/</guid>
+      <description>Nuevas formas de interacci�n y din�mica entre las empresas y los consumidores. Marketing 4.0.
+Marketing Horizontal: Las personas contribuyen con sus opiniones, siendo mas eficientes para los consumidores elegir un producto.
+Las empresas y los clientes est�n constantemente en comunicaci�n buscando el conocimiento de sus productos o servicios, hasta el reconocimiento.
+Los consumidores incorporan las redes sociales y las conexiones en cada aspecto de su vida cotidiana, permiti�ndoles tomar decisiones sobre precios, revisar opiniones, o realizar compras.</description>
+    </item>
+    
+  </channel>
+</rss>
